@@ -1,6 +1,6 @@
 ## Hi there, I'm Stephanie  👋
 
-I'm a Machine Learning Engineer based in Melbourne, currently leading research into the productionisation of an agentic chatbot at [FocusBear](https://www.focusbear.io). I hold a Bachelor of Applied Data Science from Monash University and have prior research experience at CSIRO and the University of Adelaide.
+I'm a Machine Learning Engineer based in Melbourne, currently leading research into the productionisation of an agentic chatbot at [FocusBear](https://www.focusbear.io). I hold a Bachelor of Applied Data Science from Monash University.
 
 I care about building ML systems that solve real problems for real users, with a strong preference for code-owned, transparent architectures over black-box platforms.
 
